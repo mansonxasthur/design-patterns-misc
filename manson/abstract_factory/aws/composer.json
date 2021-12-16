@@ -1,0 +1,15 @@
+{
+    "name": "manson/aws",
+    "autoload": {
+        "psr-4": {
+            "Aws\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manson Xasthur",
+            "email": "mansonx13@gmail.com"
+        }
+    ],
+    "require": {}
+}
