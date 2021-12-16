@@ -11,5 +11,8 @@
             "email": "mansonx13@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripte": [
+    	"start": "php -S 0.0.0.0:4242 -t public/"
+    ]
 }
